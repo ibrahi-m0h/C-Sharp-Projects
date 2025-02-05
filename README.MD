@@ -1,0 +1,1 @@
+Repository containing projects built using C# and .NET Core 
